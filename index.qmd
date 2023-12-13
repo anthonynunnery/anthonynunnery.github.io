@@ -1,0 +1,26 @@
+---
+about:
+  template: jolla
+  id: about-block
+  image: "img/my_image.jpg"
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/anthonynunnery
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/anthony-nunnery-21402a180/
+    - icon: envelope
+      text: Email
+      href: "mailto:atn33@case.edu"  
+---
+
+::: {#about-block}
+:::
+
+# Welcome to my website!
+
+Hello and welcome. My name is Anthony Nunnery and this is my webpage. I am currently a full-time research assistant at the Mandel School of Applied Social Science enrolled in the CWRU's School of Medicine Masters in Biostatistics program. In the future, this website will be a good way to connect with and follow me on my career journey. Thank you for your time and be well!  
+
+
+
