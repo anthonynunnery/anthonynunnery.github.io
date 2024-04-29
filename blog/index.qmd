@@ -1,0 +1,31 @@
+---
+title: Blog
+---
+
+## April 25th, 2024: Moving Beyond 'p<0.05' part 1
+
+<img src="stats_1_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://arxiv.org/abs/2210.07278', 'blank');"/>
+
+
+  In this blog post, I will discuss my takeaways from the article published in the American Statistician journal by Ronald Wasserstein, Allen Schirm, and Nicole Lazar, on how to evolve current research practices from its reliance on high and low p-values based on the arbitrary threshold of “p<0.05” and the dichotomous categorization of confidence intervals.
+
+  This article serves as an expansion of the ASA statement on p-values and statistical significance, that includes examples of better practice, based on suggestions from various authors on the topic. The goal of this article is to provide the scientific community with more thought tools to aid in our conceptualizations of statistical inference. In effect, the authors hope that there will be an improvement in the communication of research findings, less plagued by “false alarms” and more conclusive to expanding our general knowledge base.
+
+  The authors suggest that this holistic expansion in knowledge will be brought on by the ATOM approach when conducting and communicating research. The ATOM approach was summarized in two concise sentences: “Accept uncertainty. Be thoughtful, open, and modest.” I thought this framing of how to approach this issue was very refreshing. And I felt it was very thought-provoking, given how often conclusions are pushed onto us as factual without the external scrutiny of how values deduced as significant, hold up to the entire landscape of prior research/knowledge. I will discuss the ATOM approach further in my next post.   
+
+
+----
+
+## April 27th, 2024: Moving Beyond 'p<0.05' part 2
+
+<img src="stats_2_banner.png" style="height: 100%; width: 100%; object-fit: contain" onclick="window.open('https://arxiv.org/abs/2112.08866', 'blank');"/>
+
+  In this blog post, I will discuss further my takeaways from the article published in the American Statistician journal by Ronald Wasserstein, Allen Schirm, and Nicole Lazar, on how to evolve current research practices from its reliance on high and low p-values based on the arbitrary threshold of “p<0.05” and the dichotomous categorization of confidence intervals.
+
+  In the last post, we discussed the potential for the ATOM approach described by the authors, to bring about more holistic conclusions of statistical inference that will better serve the research community and efficiently expand the current knowledge base. The authors discuss how important these changes in practice, with regard to overt reliance on arbitrary p-value thresholds, need to be brought on not only by researchers but also their partners in the dissemination of research findings.
+
+  For example, journals placing more scrutiny on publications based on the ATOM model. With this, the substance of the study is placed with more importance than overtly the end result. For instance, by rewarding studies with sound methods based on prior knowledge and clear communication of their point estimates like effect sizes, confidence intervals, and exact p-values, even if the end result isn’t an extremely impressive outcome, the research community benefits in that the study can be reproduced and expanded on. The ATOM approach’s representation of uncertainty, thoughtfulness, openness, and modesty can be great guide stones to the research community in its ability to communicate research findings and share general knowledge more holistically, making it a great asset to be employed when doing research in the future.
+    
+
+
+
