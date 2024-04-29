@@ -1,0 +1,65 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Welcome to my website!",
+    "section": "",
+    "text": "Github\n  \n  \n    \n     LinkedIn\n  \n  \n    \n     Email\n  \n\n\n\n\nWelcome to my website!\nHello and welcome. My name is Anthony Nunnery and this is my webpage. I am currently a full-time research assistant at the Mandel School of Applied Social Science enrolled in the CWRU’s School of Medicine Masters in Biostatistics program. In the future, this website will be a good way to connect with and follow me on my career journey. Thank you for your time and be well!"
+  },
+  {
+    "objectID": "education/index.html",
+    "href": "education/index.html",
+    "title": "Education",
+    "section": "",
+    "text": "Anthony graduated from Bonnabel High School in May 2017. Anthony spent his time at Bonnabel being educated like any other student and engaging with cross country and band for extracurricular activities. Since then he has not picked up a pair of running shoes and neither an instrument."
+  },
+  {
+    "objectID": "education/index.html#bonnabel-high-school",
+    "href": "education/index.html#bonnabel-high-school",
+    "title": "Education",
+    "section": "",
+    "text": "Anthony graduated from Bonnabel High School in May 2017. Anthony spent his time at Bonnabel being educated like any other student and engaging with cross country and band for extracurricular activities. Since then he has not picked up a pair of running shoes and neither an instrument."
+  },
+  {
+    "objectID": "education/index.html#case-western-reserve-university",
+    "href": "education/index.html#case-western-reserve-university",
+    "title": "Education",
+    "section": "Case Western Reserve University",
+    "text": "Case Western Reserve University\n\nAnthony attended CWRU from 2017-2021 and received a BA in Psychology and Sociology upon graduating. Anthony currently attends CWRU in pursuit of a MA in Biostatistics, within the generalist track."
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "In this blog post, I will discuss my takeaways from the article published in the American Statistician journal by Ronald Wasserstein, Allen Schirm, and Nicole Lazar, on how to evolve current research practices from its reliance on high and low p-values based on the arbitrary threshold of “p&lt;0.05” and the dichotomous categorization of confidence intervals.\nThis article serves as an expansion of the ASA statement on p-values and statistical significance, that includes examples of better practice, based on suggestions from various authors on the topic. The goal of this article is to provide the scientific community with more thought tools to aid in our conceptualizations of statistical inference. In effect, the authors hope that there will be an improvement in the communication of research findings, less plagued by “false alarms” and more conclusive to expanding our general knowledge base.\nThe authors suggest that this holistic expansion in knowledge will be brought on by the ATOM approach when conducting and communicating research. The ATOM approach was summarized in two concise sentences: “Accept uncertainty. Be thoughtful, open, and modest.” I thought this framing of how to approach this issue was very refreshing. And I felt it was very thought-provoking, given how often conclusions are pushed onto us as factual without the external scrutiny of how values deduced as significant, hold up to the entire landscape of prior research/knowledge. I will discuss the ATOM approach further in my next post."
+  },
+  {
+    "objectID": "blog/index.html#april-25th-2024-moving-beyond-p0.05-part-1",
+    "href": "blog/index.html#april-25th-2024-moving-beyond-p0.05-part-1",
+    "title": "Blog",
+    "section": "",
+    "text": "In this blog post, I will discuss my takeaways from the article published in the American Statistician journal by Ronald Wasserstein, Allen Schirm, and Nicole Lazar, on how to evolve current research practices from its reliance on high and low p-values based on the arbitrary threshold of “p&lt;0.05” and the dichotomous categorization of confidence intervals.\nThis article serves as an expansion of the ASA statement on p-values and statistical significance, that includes examples of better practice, based on suggestions from various authors on the topic. The goal of this article is to provide the scientific community with more thought tools to aid in our conceptualizations of statistical inference. In effect, the authors hope that there will be an improvement in the communication of research findings, less plagued by “false alarms” and more conclusive to expanding our general knowledge base.\nThe authors suggest that this holistic expansion in knowledge will be brought on by the ATOM approach when conducting and communicating research. The ATOM approach was summarized in two concise sentences: “Accept uncertainty. Be thoughtful, open, and modest.” I thought this framing of how to approach this issue was very refreshing. And I felt it was very thought-provoking, given how often conclusions are pushed onto us as factual without the external scrutiny of how values deduced as significant, hold up to the entire landscape of prior research/knowledge. I will discuss the ATOM approach further in my next post."
+  },
+  {
+    "objectID": "blog/index.html#april-27th-2024-moving-beyond-p0.05-part-2",
+    "href": "blog/index.html#april-27th-2024-moving-beyond-p0.05-part-2",
+    "title": "Blog",
+    "section": "April 27th, 2024: Moving Beyond ‘p<0.05’ part 2",
+    "text": "April 27th, 2024: Moving Beyond ‘p&lt;0.05’ part 2\n\nIn this blog post, I will discuss further my takeaways from the article published in the American Statistician journal by Ronald Wasserstein, Allen Schirm, and Nicole Lazar, on how to evolve current research practices from its reliance on high and low p-values based on the arbitrary threshold of “p&lt;0.05” and the dichotomous categorization of confidence intervals.\nIn the last post, we discussed the potential for the ATOM approach described by the authors, to bring about more holistic conclusions of statistical inference that will better serve the research community and efficiently expand the current knowledge base. The authors discuss how important these changes in practice, with regard to overt reliance on arbitrary p-value thresholds, need to be brought on not only by researchers but also their partners in the dissemination of research findings.\nFor example, journals placing more scrutiny on publications based on the ATOM model. With this, the substance of the study is placed with more importance than overtly the end result. For instance, by rewarding studies with sound methods based on prior knowledge and clear communication of their point estimates like effect sizes, confidence intervals, and exact p-values, even if the end result isn’t an extremely impressive outcome, the research community benefits in that the study can be reproduced and expanded on. The ATOM approach’s representation of uncertainty, thoughtfulness, openness, and modesty can be great guide stones to the research community in its ability to communicate research findings and share general knowledge more holistically, making it a great asset to be employed when doing research in the future."
+  },
+  {
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum vitae",
+    "section": "",
+    "text": "Download current CV"
+  },
+  {
+    "objectID": "experience/index.html",
+    "href": "experience/index.html",
+    "title": "Experience",
+    "section": "",
+    "text": "Anthony is currently a Research Assistant 2 working under Dr. Margaret Baughman, at the Mandel School of Applied Social Science. He can be found at the school’s research commons area M-F during most of the week when not conducting field interviews for various addiction recovery related research projects.\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nMSSAS Truama Center Homepage"
+  }
+]
